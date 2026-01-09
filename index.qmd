@@ -1,13 +1,9 @@
 ---
-title: "My Website"
+title: "Cai Naidoo"
 format: 
   html:
     css: style.css
 ---
-
-This is a Quarto website.
-
-# **Cai Naidoo** 
 
 Finance - Data - Systems
 
@@ -27,18 +23,14 @@ Recently I have been learning about Linux-Based environments outside of school a
 
 ## Beyond Just Coding 
 
-Outside of coding and technical work I find myself enjoying gardening, running and speaking with new people with new ideas who bring all different kinds of strenghths to the table
+Outside of coding and technical work I find myself enjoying gardening, running and speaking with new people with new ideas who bring all different kinds of strengths to the table
 
 ## What Drives me and Where I Hope To Be 
 
-What motivates me most is gaining new knowledge and being able to see the progress that is rewarded after finding solutions to problems I had prior. I am not sure exactly what specific area of finance I want to work in, however I am interested in always exploring new oppurtunities in different sectors!
+What motivates me most is gaining new knowledge and being able to see the progress that is rewarded after finding solutions to problems I had prior. I am not sure exactly what specific area of finance I want to work in, however I am interested in always exploring new opportunities in different sectors!
 
 ------------------------------------------------------------------------
 
-## View My GitHub Here! [My GitHub ](https://github.com/caidelta)
+## View My GitHub Here!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+[My GitHub ](https://github.com/caidelta)
