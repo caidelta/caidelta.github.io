@@ -8,11 +8,18 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: Projects.qmd
+        text: Projects
 
 format:
   html:
     theme:
+      light: flatly
+      dark: darkly
+    mainfont: Inter
+    headingfont: Space Grotesk
       - cosmo
       - brand
     css: styles.css

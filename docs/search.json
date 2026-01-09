@@ -1,10 +1,24 @@
 [
   {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "placeholder for projects to add"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Cai Naidoo",
     "section": "",
-    "text": "Finance - Data - Systems\nTracking Delta - Building projects that improve over time."
+    "text": "Finance - Data - Systems\ntresing\nTracking Delta - Building projects that improve over time."
   },
   {
     "objectID": "index.html#hi-i-am-cai",
@@ -47,12 +61,5 @@
     "title": "Cai Naidoo",
     "section": "View My GitHub Here!",
     "text": "View My GitHub Here!\nMy GitHub"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]

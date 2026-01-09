@@ -5,7 +5,9 @@ format:
     css: style.css
 ---
 
-Finance - Data - Systems
+**Finance - Data - Systems**
+
+tresing
 
 Tracking Delta - Building projects that improve over time.
 
