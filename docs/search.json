@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Website",
+    "section": "",
+    "text": "This is a Quarto website.\nCai Naidoo Finance - Data - Systems Tracking Delta - Building projects that improve over time.\n##Hi I am Cai!\nI am a University of Alberta student interested in finance, data, algorithmic trading, and building systems that improve over time\n##Background My intial exposure to coding came in the form of game scripting where I used Lua to tweak small mechanics within game systems to automate them. That exposure reall taught me to think about how environments and rules can interact.\n##What I am learning now Recently I have been learning about Linux-Based environments outside of school and exploring new programming languages to help with algorithmic trading. I am currently attempting to learn Ocaml, to really push myself into new areas.\n##Beyond just coding Outside of coding and technical work I find myself enjoying gardening, running and speaking with new people with new ideas who bring all different kinds of strenghths to the table\n##What Drives me and where I hope to be What motivates me most is gaining new knowledge and being able to see the progress that is rewarded after finding solutions to problems I had prior. I am not sure exactly what specific area of finance I want to work in, however I am interested in always exploring new oppurtunities in different sectors!\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
